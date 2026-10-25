@@ -1,5 +1,5 @@
 // NAME: Duplicate Guard
-// AUTHOR: YOUR_GITHUB_USERNAME
+// AUTHOR: Blackhu4
 // DESCRIPTION: Warns before adding a track that is already in a playlist or in Liked Songs
 //              (including the same song from a different release), and can scan an existing
 //              playlist or Liked Songs for duplicates and remove them after you confirm.

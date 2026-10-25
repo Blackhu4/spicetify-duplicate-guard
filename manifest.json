@@ -2,14 +2,20 @@
   {
     "name": "Duplicate Guard",
     "description": "Warns before adding a track that is already in a playlist or Liked Songs (even a different release of the same song), and can scan a whole playlist or Liked Songs for duplicates and remove them.",
+    "preview": "preview.png",
     "main": "duplicate-guard.js",
     "readme": "README.md",
     "authors": [
       {
-        "name": "YOUR_GITHUB_USERNAME",
-        "url": "https://github.com/YOUR_GITHUB_USERNAME"
+        "name": "Blackhu4",
+        "url": "https://github.com/Blackhu4"
       }
     ],
-    "tags": ["playlist", "duplicates", "liked songs", "utility"]
+    "tags": [
+      "playlist",
+      "duplicates",
+      "liked songs",
+      "utility"
+    ]
   }
 ]
